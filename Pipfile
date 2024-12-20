@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+jinja2 = "*"
+databricks-sdk = "==0.17.0"
+prompt-toolkit = "==3.0.43"
+inquirerpy = "*"
+
+[dev-packages]
+pytest = "*"
+pipfile = "*"
+pytest-mock = "*"
+
+[requires]
+python_version = "3.9"
+python_full_version = "3.9.17"

@@ -1,0 +1,22 @@
+{
+    "name": "lakehouse",
+    "overwrite": true,
+    "cloud": "AWS",
+    "aws_account_id": "1234567890",
+    "region": "us-east-1",
+    "account_id": "0a3f14c4-2c10-46fb-a286-17642b0d902b",
+    "language": "Python",
+    "features": [
+        "terraform",
+        "dlt_pipeline"
+    ],
+    "workspaces": [
+        "dev",
+        "prod"
+    ],
+    "catalogs": [
+        "dev",
+        "prod"
+    ],
+    "custom_catalogs": "dev,prod"
+}
