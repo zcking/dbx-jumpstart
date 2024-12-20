@@ -163,7 +163,6 @@ cython_debug/
 hello_world/
 sandbox/
 *demo.yml
-*.gif
 .DS_Store
 **/private.s3.tfbackend
 **/private.auto.tfvars

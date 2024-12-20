@@ -3,7 +3,7 @@
 This is an internal command-line tool for automating a Databricks platform setup
 using Terraform and templates that can be extended for future playbooks.
 
-![Jumpstart Demo](https://make-with-data-assets.s3.us-east-1.amazonaws.com/jumpstart_demo.gif)
+![Jumpstart Demo](./jumpstart_demo.gif)
 
 ## Setup
 
